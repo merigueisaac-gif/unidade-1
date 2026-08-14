@@ -1,7 +1,42 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(252, 252, 252);
-    color: black;
+    background-color: rgb(195, 114, 219);
+    color: rgb(148, 37, 158);
     margin: 0;
     padding: 0;
+}
+
+header{
+    background-color: rgb(189, 148, 226);
+    color: rgb(7, 7, 7);
+    padding: 30px;
+    text-align: center;
+
+}
+
+header h1{
+    margin: 0;
+    font-size: 50px;
+
+}
+
+header p{
+    margin: 0;
+    font-size: 40px;
+}
+
+nav ul{
+list-style: none;
+display: flex;
+justify-content: center;
+gap: 20px;
+background-color: rgb(186, 150, 201);
+padding: 15px;
+margin:0;
+
+
+
+
+
+
 }
